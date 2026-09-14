@@ -137,5 +137,5 @@ streamlit run app.py
 
 ## 👤 Author
 
-* **GitHub:** [@your-username](https://github.com/your-username)
-* **Data Source:** Dinas Lingkungan Hidup Kota Yogyakarta, Tahun 2024
+* **GitHub:** [@katarizkyo99e](https://github.com/katarizkyo99)
+* **Data Source:** [Dinas Lingkungan Hidup Kota Yogyakarta, Tahun 2024](https://lingkunganhidup.jogjakota.go.id/page/index/basis-data-lingkungan-hidup/1000)

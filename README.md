@@ -1,7 +1,7 @@
 # 🌫️ Yogyakarta Air Quality Forecast: PM2.5 Regression Forecasting with Random Forest
 
 <!-- Ganti baris di bawah dengan screenshot aplikasi kamu -->
-![Yogyakarta Air Quality Forecast Screenshot](./assets/aqi_forecast_result.png)
+![Yogyakarta Air Quality Forecast Screenshot](./result/result_interface.png)
 
 A regression forecasting project that predicts next-day PM2.5 concentration in Yogyakarta using **scikit-learn (Random Forest)**, built on real 2024 air quality data published by **Dinas Lingkungan Hidup Kota Yogyakarta**. The project includes a full ETL pipeline (PDF → clean time series), documented feature/model selection, an honest comparison against a naive baseline, and an interactive **Streamlit** app.
 

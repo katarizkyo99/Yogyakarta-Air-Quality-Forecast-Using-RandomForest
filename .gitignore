@@ -1,0 +1,17 @@
+# Trained artifacts (regenerate locally: python train.py)
+model.joblib
+metrics.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

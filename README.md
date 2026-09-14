@@ -7,8 +7,8 @@ A regression forecasting project that predicts next-day PM2.5 concentration in Y
 
 ---
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-aqi-forecast-app.streamlit.app/)
-**Live Demo:** [Yogyakarta Air Quality Forecast](https://your-aqi-forecast-app.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yogyakarta-air-quality-forecast-using-randomforest-mqsapptnatq.streamlit.app/)
+**Live Demo:** [Yogyakarta Air Quality Forecast](https://yogyakarta-air-quality-forecast-using-randomforest-mqsapptnatq.streamlit.app/)
 
 ## 🚀 Key Features
 

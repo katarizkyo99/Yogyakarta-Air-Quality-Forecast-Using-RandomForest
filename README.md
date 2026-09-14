@@ -33,7 +33,7 @@ A regression forecasting project that predicts next-day PM2.5 concentration in Y
 ## 📁 Repository Structure
 
 ```text
-├── assets/                              # Screenshots and static assets for documentation
+├── result/                              # Screenshots and static assets for documentation
 ├── data/
 │   └── yogyakarta_air_quality_2024.csv  # Clean, merged daily dataset (output of extract_data.py)
 ├── notebooks/
@@ -48,7 +48,7 @@ A regression forecasting project that predicts next-day PM2.5 concentration in Y
 └── requirements.txt                      # Python dependencies
 ```
 
-> **Note on source PDFs:** the raw government reports (`Data Konsentrasi Rata-Rata Harian AQMS`, `ISPU Kota Yogyakarta`) are not redistributed in this repo. They are open data — download the equivalent year's reports from Dinas Lingkungan Hidup Kota Yogyakarta or the Satu Data DIY portal and point `extract_data.py` at your local copies. The already-extracted `data/yogyakarta_air_quality_2024.csv` is committed so the app and training script run out of the box without needing the PDFs.
+> **Note on source PDFs:** the raw government reports (`Data Konsentrasi Rata-Rata Harian AQMS`, `ISPU Kota Yogyakarta`) are not redistributed in this repo. They are open data — download the equivalent year's reports from Dinas Lingkungan Hidup Kota Yogyakarta or the Satu Data DIY portal (https://lingkunganhidup.jogjakota.go.id/page/index/basis-data-lingkungan-hidup/1000) and point `extract_data.py` at your local copies. The already-extracted `data/yogyakarta_air_quality_2024.csv` is committed so the app and training script run out of the box without needing the PDFs.
 
 ---
 

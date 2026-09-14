@@ -1,7 +1,3 @@
-# Trained artifacts (regenerate locally: python train.py)
-model.joblib
-metrics.json
-
 # Python
 __pycache__/
 *.py[cod]

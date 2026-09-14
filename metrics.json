@@ -1,0 +1,27 @@
+{
+  "mae": 4.716349521615705,
+  "rmse": 6.553301294633618,
+  "r2": 0.5171498898174571,
+  "baseline_mae": 4.7373015873015865,
+  "baseline_rmse": 6.403196994160942,
+  "n_train": 250,
+  "n_test": 63,
+  "top_features": [
+    {
+      "feature": "pm25",
+      "importance": 0.6981387691820594
+    },
+    {
+      "feature": "pm25_lag1",
+      "importance": 0.12970854342413793
+    },
+    {
+      "feature": "pm25_roll3",
+      "importance": 0.12122607066019085
+    },
+    {
+      "feature": "month",
+      "importance": 0.05092661673361177
+    }
+  ]
+}
